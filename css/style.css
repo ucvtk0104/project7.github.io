@@ -1,0 +1,15 @@
+body{
+    background-image: url("../img/fon.jpg");
+}
+h1{
+    font-size: 100px;
+    color:brown;
+    font-family: Mistral;
+    text-align:center;
+}
+#mypic1,#mypic2,#mypic3{
+    border-radius: 10px;
+}
+#picComp{
+    visibility: hidden;
+}
